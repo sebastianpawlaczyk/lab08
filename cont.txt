@@ -1,0 +1,5 @@
+InputFolders = /home/seba/Documents
+Input = serialFiles
+Output = serialFiles
+Operation = old
+Files2search = a.odt
